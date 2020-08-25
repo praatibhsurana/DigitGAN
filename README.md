@@ -17,7 +17,6 @@ cd GenerAi
 - From the root directory run:
 ```bash
     pip install -r requirements.txt
-    flask run
 ```
 - You should be good to go now! Now, from the root directory, run:
 ```bash
