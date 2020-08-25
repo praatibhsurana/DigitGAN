@@ -25,22 +25,22 @@ cd GenerAi
 ```
 The quality of generated images can be improved by running for a higher number of epochs.
 
-### Results obtained from various epochs-
+## Results obtained from various epochs-
 
-#### Epoch1
+### Epoch1
 ![1](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_1.png?raw=true)
 
-#### Epoch 10
+### Epoch 10
 ![2](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_10.png?raw=true)
 
-#### Epoch 20
+### Epoch 20
 ![3](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_20.png?raw=true)
 
-#### Epoch 30
+### Epoch 30
 ![4](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_30.png?raw=true)
 
-#### Epoch 40
+### Epoch 40
 ![5](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_40.png?raw=true)
 
-#### Epoch 50
+### Epoch 50
 ![6](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_50.png?raw=true)
