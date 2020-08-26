@@ -7,7 +7,7 @@ The mnist dataset was used.
 **Clone the repo and navigate to it**
 ```bash
 git clone https://github.com/praatibhsurana/DigitGAN.git
-cd GenerAi
+cd DigitGAN-master
 ```
 
 **To run the model**
