@@ -18,7 +18,7 @@ cd DigitGAN-master
 ```bash
     pip install -r requirements.txt
 ```
-- You should be good to go now! Now, from the root directory, run:
+- You should be good to go now! Now, from within the virtual environment you created, run:
 ```bash
     python DigitGAN.py
 ```
