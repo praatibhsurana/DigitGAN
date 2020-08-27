@@ -26,7 +26,7 @@ The quality of generated images can be improved by running for a higher number o
 
 ## Results obtained from various epochs-
 
-### Epoch1
+### Epoch 1
 ![1](https://github.com/praatibhsurana/DigitGAN/blob/master/Generator_Checkpoints/gan_generated_image_epoch_1.png?raw=true)
 
 ### Epoch 10
