@@ -1,5 +1,5 @@
 # DigitGAN
-Implementation of a simple General Adversarial Network (GAN) to generate digits.
+Keras implementation of a simple General Adversarial Network (GAN) to generate digits.
 The mnist dataset was used.
 
 ## Setup
